@@ -1,0 +1,35 @@
+.row > div {
+                font-family: cooper black;
+               	padding: 6px;
+                font-size: 25px;
+                background-color: #ffda7b;
+                border: 8px solid white ;
+                color: white;
+                text-align: center;
+                
+               	text-shadow:
+    -1px -1px 0 #386084,
+     0   -1px 0 #386084,
+     1px -1px 0 #386084,
+     1px  0   0 #386084,
+     1px  1px 0 #386084,
+     0    1px 0 #386084,
+    -1px  1px 0 #386084,
+    -1px  0   0 #386084;
+    cursor:pointer;
+            }
+.T1{
+
+}
+
+.T2{
+    
+}
+ 
+.T3{
+    
+}
+
+ .T4{
+    
+}       
